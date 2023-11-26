@@ -15,12 +15,6 @@ ___Hello! This is where I will store all of my Portfolio Projects going forward!
 * ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-# Description
-
-This README is intended to direct viewers to Github in absence of a portfolio static website.
-
-# My Projects
-
 ### Folklore Web Service
 
 ![Alt Text](./assets/FolkloreAPI.gif)
@@ -35,8 +29,6 @@ This README is intended to direct viewers to Github in absence of a portfolio st
 
 ![Alt Text](./assets/TwentyFour.gif)
 
-*Website: www.twentyfourgame.io
-
-*Description: A simple development of the popular math game, 24. The goal of the game is to reach 24 using each number at least once. The implementation was a good test of front-end skills though the implementation is slightly incomplete.
-
-*Tools: REACT, Javascript, HTML, CSS, NextJS
+* Website: www.twentyfourgame.io
+* Description: A simple development of the popular math game, 24. The goal of the game is to reach 24 using each number at least once. The implementation was a good test of front-end skills though the implementation is slightly incomplete.
+* Tools: REACT, Javascript, HTML, CSS, NextJS
