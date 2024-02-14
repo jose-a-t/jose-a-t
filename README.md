@@ -21,7 +21,7 @@ ___Hello! This is where I will store all of my Portfolio Projects going forward!
 
 ![Alt Text](./assets/LSFamily.gif)
 
-* Repository:(https://github.com/joseb2/folklore.io)
+* Website: https://lsfamilytree.vercel.app
 * Description: This project presents an interactive 3D graph designed to visualize complex relationships between characters, inspired by the dynamic interactions within the Los Santos community. It aims to offer insights into how characters are interconnected through various relationships, excluding marital status to focus on the adoption meta and other significant connections. This visualization tool is an excellent resource for anyone interested in the intricate web of relationships and seeking a comprehensive understanding of community ties.
 * Tools: React, Vercel, Material-UI, three.js, React Hooks, React Force Graph, CSS
 
