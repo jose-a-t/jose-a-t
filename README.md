@@ -13,7 +13,20 @@ ___Hello! This is where I will store all of my Portfolio Projects going forward!
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+* ![three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+
+### 3D Family Render
+
+![Alt Text](./assets/LSFamily.gif)
+
+* Repository:(https://github.com/joseb2/folklore.io)
+* Description: This project presents an interactive 3D graph designed to visualize complex relationships between characters, inspired by the dynamic interactions within the Los Santos community. It aims to offer insights into how characters are interconnected through various relationships, excluding marital status to focus on the adoption meta and other significant connections. This visualization tool is an excellent resource for anyone interested in the intricate web of relationships and seeking a comprehensive understanding of community ties.
+* Tools: React, Vercel, Material-UI, three.js, React Hooks, React Force Graph, CSS
+
+
+<br/>
 
 ### Folklore Web Service
 
