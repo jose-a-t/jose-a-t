@@ -1,6 +1,6 @@
 # My Portfolio of Projects
 
-___Hello! This is where I will store all of my Portfolio Projects going forward!___
+___Hello! My name is Jose. I'm an experienced Fullstack Developer seeking to build a useful, diverse portfolio.___
 
 # Contact Details
 
